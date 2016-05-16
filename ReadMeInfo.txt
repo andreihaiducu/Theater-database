@@ -1,0 +1,4 @@
+- I used MySQL Workbench for database. 
+- I hope this backup of database will work
+- BDTeatru.jar is the jar file that will open the application.
+- feel free to send email for info at andressh11@gmail.com
